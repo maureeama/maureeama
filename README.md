@@ -1,4 +1,8 @@
-## Hi there 👋
+Hey! 👋
+
+My name is Mariama. I'm a first-year computer science student. Welcome to my hub.
+
+
 
 <!--
 **maureeama/maureeama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
