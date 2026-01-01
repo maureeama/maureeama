@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Mariama. I'm a first-year computer science student @York University interested in data analytics. Welcome to my hub.
+My name is Mariama. I'm a second-year computer science student @York University interested in data analytics. Welcome to my hub.
 
 
 
